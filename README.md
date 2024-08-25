@@ -2,7 +2,7 @@
 
 <h3> Overview: </h3>
 
-•	Used AVL Trees to implement.<br/> 
+•	Used Linked-List to implement.<br/> 
 •	A Train Database of 10 trains is maintained in a Tree to maintain the SEAT MATRIX and allocate proper seat to User.<br/> 
 •	The Trains are given id from 25671 to 25680(a try to make it real)
 
