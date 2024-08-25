@@ -1,4 +1,4 @@
-// Narendra Raut
+
 // Usefull Libraries
 #include <stdio.h>
 #include <math.h>
